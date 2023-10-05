@@ -20,6 +20,8 @@
 Todos os Designers, Design System e Prototipação de todas as telas estão no link do Figma abaixo:
 [Link Figma](https://www.figma.com/file/BfmaH8Py2FXEZaU5a78npV/Pelaez-Web-Design?type=design&node-id=0%3A1&mode=design&t=A7X3r5BDpfNZmzB1-1)
 
+### OBS: Os Designers e as Prototipações estão em páginas diferentes dentro do Figma.
+
 ## Pelaez Web Design
 <img src="img-desafio-final/logo-fundo-alpha.png">
 
